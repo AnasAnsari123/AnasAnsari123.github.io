@@ -28,8 +28,6 @@
 
 		<!-- One -->
 			<section id="one" class="main special">
-				<div class="container">
-					<span class="image fit primary"><img src="pic01.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
 							<h2>Who I am</h2>
@@ -43,7 +41,7 @@
 		<!-- Two -->
 			<section id="two" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="pic02.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="Anas.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
 							<h2>I am interested in</h2>
