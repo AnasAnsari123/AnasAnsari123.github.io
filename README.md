@@ -16,8 +16,8 @@
 		<!-- Header -->
 			<section id="header">
 				<header class="major">
-					<h1>Highlights</h1>
-					<p>A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a></p>
+					<h1>Anas A S</h1>
+					<p>Computational BiologisT<br>Specialization in NGS Data Analytics<a href="http://html5up.net">HTML5 UP</a></p>
 				</header>
 				<div class="container">
 					<ul class="actions special">
@@ -29,12 +29,12 @@
 		<!-- One -->
 			<section id="one" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/pic01.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="pic01.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
 							<h2>Who I am</h2>
 						</header>
-						<p>Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum.</p>
+						<p> As a computational biologist specializing in NGS data analytics, I am passionate about leveraging my expertise to drive genomics research forward. I possess a solid foundation in biology and computer science, allowing me to make significant contributions in understanding the intricacies of the genome and its impact on human health and disease.</p>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -43,10 +43,10 @@
 		<!-- Two -->
 			<section id="two" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/pic02.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="pic02.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
-							<h2>Stuff I do</h2>
+							<h2>I am interested in</h2>
 						</header>
 						<p>Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate.</p>
 						<ul class="icons-grid">
