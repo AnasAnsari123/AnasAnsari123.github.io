@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Highlights by HTML5 UP</title>
+		<title>Anas A S</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="main.css" />
@@ -17,7 +17,7 @@
 			<section id="header">
 				<header class="major">
 					<h1>Anas A S</h1>
-					<p>Computational BiologisT<br>Specialization in NGS Data Analytics</br><a href="http://html5up.net">HTML5 UP</a></p>
+					<p>Computational Biologist<br>Specialization in NGS Data Analytics</p>
 				</header>
 				<div class="container">
 					<ul class="actions special">
