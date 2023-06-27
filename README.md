@@ -17,7 +17,7 @@
 			<section id="header">
 				<header class="major">
 					<h1>Anas A S</h1>
-					<p>Computational BiologisT<br>Specialization in NGS Data Analytics<a href="http://html5up.net">HTML5 UP</a></p>
+					<p>Computational BiologisT<br>Specialization in NGS Data Analytics</br><a href="http://html5up.net">HTML5 UP</a></p>
 				</header>
 				<div class="container">
 					<ul class="actions special">
@@ -48,23 +48,9 @@
 						<header class="major">
 							<h2>I am interested in</h2>
 						</header>
-						<p>Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet vulputate.</p>
-						<ul class="icons-grid">
+						<p>In my role, I like to  work with various types of NGS data, such as DNA sequencing, RNA sequencing, ChIP sequencing, and also it utilize computational tools</p>
 							<li>
-								<span class="icon solid major fa-camera-retro"></span>
-								<h3>Magna Etiam</h3>
-							</li>
-							<li>
-								<span class="icon solid major fa-pencil-alt"></span>
-								<h3>Lorem Ipsum</h3>
-							</li>
-							<li>
-								<span class="icon solid major fa-code"></span>
-								<h3>Nulla Tempus</h3>
-							</li>
-							<li>
-								<span class="icon solid major fa-coffee"></span>
-								<h3>Sed Feugiat</h3>
+							  <span class="image featured"><img src="Anas.jpg" alt="Profile Image" /></span>
 							</li>
 						</ul>
 					</div>
@@ -75,12 +61,12 @@
 		<!-- Three -->
 			<section id="three" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
-							<h2>One more thing</h2>
+							<h2>Next Generation Sequencing</h2>
 						</header>
-						<p>Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum.</p>
+						<p>NGS is a transformative technology that has revolutionized genomics research by enabling the rapid and cost-effective sequencing of DNA. It has broad applications across various domains, and computational biologists specializing in NGS data analytics play a crucial role in extracting meaningful biological insights from the vast amount of sequencing data generated.</p>
 					</div>
 					<a href="#footer" class="goto-next scrolly">Next</a>
 				</div>
@@ -160,10 +146,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									</ol>
 									<h5>Icons</h5>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+										<li><a href="tel:9947957876" class="fa-brands-400.eot"><span class="label">Mobile</span></a></li>
+										<li><a href=mailto:"anasgpk7@gmail.com" class="fa-brands-400.svg"><span class="label">Gmail</span></a></li>
+										<li><a href="https://www.linkedin.com/in/anas-a-s-380938258" class="fa-brands-400.ttf"><span class="label">Linkedin</span></a></li>
+										<li><a href="https://github.com/AnasAnsari123" class="fa-brands-400.woff"><span class="label">Github</span></a></li>
 									</ul>
 								</div>
 							</div>
