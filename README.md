@@ -28,6 +28,7 @@
 
 		<!-- One -->
 			<section id="one" class="main special">
+                                     <div class="container">
 					<div class="content">
 						<header class="major">
 							<h2>Who I am</h2>
@@ -50,6 +51,7 @@
 							<li>
 							  <span class="image featured"><img src="pic1.jpg" alt="Profile Image" /></span>
 							</li>
+       
 						</ul>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -58,6 +60,7 @@
 
 		<!-- Three -->
 			<section id="three" class="main special">
+                         	      <div class="container">
 					<div class="content">
 						<header class="major">
 							<h2>Next Generation Sequencing</h2>
@@ -75,7 +78,7 @@
 			</section>
 				<footer>
 					<ul class="icons">
-						<li><a href="tel:9947957876" class="fa-brands-400.eot"><span class="label">Mobile</span></a></li>
+						<li><a href="tel:+919947957876" class="fa-brands-400.eot"><span class="label">Mobile</span></a></li>
 										<li><a href=mailto:"anasgpk7@gmail.com" class="fa-brands-400.svg"><span class="label">Gmail</span></a></li>
 										<li><a href="https://www.linkedin.com/in/anas-a-s-380938258" class="fa-brands-400.ttf"><span class="label">Linkedin</span></a></li>
 										<li><a href="https://github.com/AnasAnsari123" class="fa-brands-400.woff"><span class="label">Github</span></a></li>
